@@ -33,9 +33,6 @@ int der = 7;
 #define ZONACARGA 3
 
 
-//pin del sensor de cruces
-// joda no usamos sensor de cruces
-// #define SENSORCRUZ 7
 
 //pines de control de giro de los motores
 
